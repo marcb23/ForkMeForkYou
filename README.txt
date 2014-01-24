@@ -1,0 +1,1 @@
+The log for this repo shows all the changes that took place in spring 2013. It looks like last january you added a README, added a “Phrase That Pays…”, updated some text, added an image, added new assets and removed smiley, updated the README, and then removed everything from the repository on this monday.
